@@ -2,7 +2,8 @@
 _How good are the U-Net and Autoencoder models at denoising images?_
 
 <h5> 
-  In this study, Alex and I tested the U-Net and Autoencoder models for Image Denoising—a task in computer vision problem that seeks to remove noise from an image in order to yield a cleaner result. We implemented our own U-Net and Autoencoder models (**our code can be found in image-denoising.ipynb**), and compared them qualitatively and quantitatively: we used the MNIST dataset to evaluate the denoising performance for both networks. Our results can be found in our report: **Image_Denoising.pdf**
+  In this study, Alex and I tested the U-Net and Autoencoder models for Image Denoising—a task in computer vision problem that seeks to remove noise from an image in order to yield a cleaner result. 
+  We implemented our own U-Net and Autoencoder models (**our code can be found in image-denoising.ipynb**), and compared them qualitatively and quantitatively: we used the MNIST dataset to evaluate the denoising performance for both networks. Our results can be found in our report: **Image_Denoising.pdf**
 </h5>
 
 > We laid out our architecture implementations in the report, as well as our thought process behind it
