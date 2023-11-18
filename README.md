@@ -1,5 +1,6 @@
 # Image-Denoising
 _How can we use neural networks to denoise images?_
+
 _Furthermore, how good are the U-Net and Autoencoder models at denoising images?_
 
 <h5> 
