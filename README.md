@@ -1,5 +1,6 @@
 # Image-Denoising
-_How good are the U-Net and Autoencoder models at denoising images?_
+_How can we use neural networks to denoise images?_
+_Furthermore, how good are the U-Net and Autoencoder models at denoising images?_
 
 <h5> 
   In this study, Alex and I tested the U-Net and Autoencoder models for Image Denoising—a task in computer vision problem that seeks to remove noise from an image in order to yield a cleaner result. 
