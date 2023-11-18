@@ -3,7 +3,9 @@ _How can we use neural networks to denoise images?_
 
 _Furthermore, how good are the U-Net and Autoencoder models at denoising images?_
 
-![image](https://github.com/alankct/Image-Denoising/assets/86837040/013f4900-aa63-4a56-b400-1d711a2787b1)
+<p align="center">
+  <img width="579" alt="Screenshot 2023-11-12 at 12 15 35 PM" src="https://github.com/alankct/Image-Denoising/assets/86837040/013f4900-aa63-4a56-b400-1d711a2787b1)">
+</p>
 
 >  Image noise is random variations of brightness or colors in images. Noise can be caused by a number of factors, like: poor lighting conditions, a high ISO (a camera's sensitivity to light), long exposure times, heat, and more.
 
